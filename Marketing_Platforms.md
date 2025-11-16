@@ -10,5 +10,3 @@ A curated list of platforms to list your startup products.
 | BetaList | Free&Paid | Alternative for Producthunt | https://betalist.com |
 | Reddit | Free | Global Community | https://reddit.com |
 | Capterra | Free | Software directory | https://www.capterra.com/vendors/sign-up |
-
-*More platforms will be added soon.*
